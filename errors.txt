@@ -1,0 +1,13 @@
+C:\Users\mandl\OneDrive\Desktop\Projects\injury-detect-ai\src\app\page.tsx
+  144:54 `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`.
+  217:27 `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`.
+  241:88 `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`.
+  250:172 `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`.
+  252:21 `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`.
+  254:48 `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`.
+  254:58 `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`.
+  324:25 Unexpected any. Specify a different type.
+C:\Users\mandl\OneDrive\Desktop\Projects\injury-detect-ai\src\app\profile\page.tsx
+  134:71 Unexpected any. Specify a different type.
+C:\Users\mandl\OneDrive\Desktop\Projects\injury-detect-ai\src\components\navigation\Navbar.tsx
+  136:74 Unexpected any. Specify a different type.
